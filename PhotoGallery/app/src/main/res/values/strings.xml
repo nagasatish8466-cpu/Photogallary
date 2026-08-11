@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="permission_needed">This app needs access to your photos to show your gallery.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="no_photos">No photos found</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="action_info">Info</string>
+    <string name="delete_confirm_title">Delete photo?</string>
+    <string name="delete_confirm_message">This photo will be permanently deleted.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
